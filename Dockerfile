@@ -1,2 +1,2 @@
-FROM quay.io/centos/centos:stream8
+FROM centos:8
 RUN time
