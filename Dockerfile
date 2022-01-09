@@ -1,2 +1,2 @@
-FROM centos:8
+FROM centos:stream8
 RUN time
