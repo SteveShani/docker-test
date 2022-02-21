@@ -1,2 +1,1 @@
-FROM centos:stream8
-RUN time
+FROM ghcr.io/steveshani/goof:1
