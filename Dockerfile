@@ -1,2 +1,2 @@
-FROM ghcr.io/steveshani/goof:1
+FROM ghcr.io/steveshani/goof:3
 RUN apt-get install -y imagemagick
