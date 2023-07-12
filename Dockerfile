@@ -1,2 +1,2 @@
-FROM ghcr.io/steveshani/goof:0.1
+FROM nginx:1.21-alpine
 RUN apt-get install -y imagemagick
