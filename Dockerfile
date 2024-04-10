@@ -1,2 +1,2 @@
-FROM rhel-eol-test/foo1.1/rhel7/jre11/foo-rhel7:1.2.3-sp1_2022021108
+FROM rhel-eol-test/foo1.1/rhel8/jre11/foo-rhel8:1.2.1-sp6_2022051108
 RUN apt-get install -y imagemagick
