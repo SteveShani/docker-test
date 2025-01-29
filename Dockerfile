@@ -1,2 +1,2 @@
-FROM rhel-eol-test/foo1.1/rhel7/jre11/foo-rhel7:1.2.3-sp1_2022021108
+FROM amazoncorretto:8u432-al2023-jre
 RUN apt-get install -y imagemagick
