@@ -1,3 +1,3 @@
-FROM amazoncorretto:8u432-al2023-jre
+FROM amazoncorretto:8u452-al2023-jre
 RUN apt-get install -y imagemagick
 LABEL org.opencontainers.image.source="https://github.com/SteveShani/docker-test"
